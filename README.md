@@ -1,2 +1,2 @@
-# swe-573
-Software Development Practice Repository 
+# SWE-573
+Spring 2016 Software Development Practice Repository 
